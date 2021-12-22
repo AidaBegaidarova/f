@@ -30,7 +30,7 @@ SECRET_KEY = 'e3c4#f4ue5+p)*)i0ye@3y@fd+#4(xvhk*8$pi_4i0w8a8$9$p'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-'10.42.105.208',
+'10.42.105.208', 'localhost',
 ]
 
 
